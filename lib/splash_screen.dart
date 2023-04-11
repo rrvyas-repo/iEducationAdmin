@@ -10,12 +10,9 @@ class SplashScreen extends StatefulWidget {
 class SplashScreenState extends State<SplashScreen> {
   @override
   void initState() {
-    Timer(
-      const Duration(seconds: 3),
-      () async {
-        await AppNavigation.shared.goNextFromSplash();
-      },
-    );
+    Timer(const Duration(seconds: 3), () async {
+      await AppNavigation.shared.goNextFromSplash();
+    }, klsfdhglsdjhfl);
     super.initState();
   }
 
