@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "646822466904",
+    "project_id": "ieducation-007",
+    "storage_bucket": "ieducation-007.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646822466904:android:a221e97deb110dbd04812d",
+        "android_client_info": {
+          "package_name": "com.example.admin_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646822466904-eqdmldn4201a9fkf1nb75qch7mhb8t5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT8lvMxjL3oAfN9XSbxSq0j_5iKv6XKPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646822466904-eqdmldn4201a9fkf1nb75qch7mhb8t5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646822466904:android:c3205e3796b752d304812d",
+        "android_client_info": {
+          "package_name": "com.example.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646822466904-eqdmldn4201a9fkf1nb75qch7mhb8t5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT8lvMxjL3oAfN9XSbxSq0j_5iKv6XKPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646822466904-eqdmldn4201a9fkf1nb75qch7mhb8t5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
